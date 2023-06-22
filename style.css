@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(42, 42, 48);
+}
+
+h1 {
+  text-align: center;
+  padding: 25px;
+  background-color: rgb(202, 202, 238);
+}
+
+.formstyle {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.fix {
+  width: 100%;
+  margin: 3px;
+}
+
+#clear {
+  width: 100%;
+}
+
+#calc {
+  width: 100%;
+}
+
+#id {
+  width: 100%;
+}
+
+form div {
+  display: flex;
+  margin: 10px;
+}
